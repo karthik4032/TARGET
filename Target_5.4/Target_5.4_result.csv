@@ -1,0 +1,6 @@
+state,avg_time_per_state,avg_est_time_per_state
+SP,8.3,18.81
+PR,11.53,24.25
+MG,11.54,24.22
+DF,12.51,24.06
+SC,14.48,25.42
